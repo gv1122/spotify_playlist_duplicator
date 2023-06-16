@@ -1,0 +1,6 @@
+{
+  "name": "playlist_duplicator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
